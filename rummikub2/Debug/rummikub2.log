@@ -1,0 +1,21 @@
+﻿  bolsa.cpp
+C:\Users\USER\Downloads\rummikub2 (1) (6) definitiva (1)\rummikub2 (1) (6) definitiva\rummikub2 (1)\rummikub2\rummikub2\Colores.h(14,67): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tColor' cuando no hay ninguna variable declarada
+  colores.cpp
+C:\Users\USER\Downloads\rummikub2 (1) (6) definitiva (1)\rummikub2 (1) (6) definitiva\rummikub2 (1)\rummikub2\rummikub2\Colores.h(14,67): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tColor' cuando no hay ninguna variable declarada
+  fichas.cpp
+C:\Users\USER\Downloads\rummikub2 (1) (6) definitiva (1)\rummikub2 (1) (6) definitiva\rummikub2 (1)\rummikub2\rummikub2\Colores.h(14,67): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tColor' cuando no hay ninguna variable declarada
+  jugadas.cpp
+C:\Users\USER\Downloads\rummikub2 (1) (6) definitiva (1)\rummikub2 (1) (6) definitiva\rummikub2 (1)\rummikub2\rummikub2\Colores.h(14,67): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tColor' cuando no hay ninguna variable declarada
+  soporte.cpp
+C:\Users\USER\Downloads\rummikub2 (1) (6) definitiva (1)\rummikub2 (1) (6) definitiva\rummikub2 (1)\rummikub2\rummikub2\Colores.h(14,67): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tColor' cuando no hay ninguna variable declarada
+  soportes.cpp
+C:\Users\USER\Downloads\rummikub2 (1) (6) definitiva (1)\rummikub2 (1) (6) definitiva\rummikub2 (1)\rummikub2\rummikub2\Colores.h(14,67): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tColor' cuando no hay ninguna variable declarada
+  Source.cpp
+C:\Users\USER\Downloads\rummikub2 (1) (6) definitiva (1)\rummikub2 (1) (6) definitiva\rummikub2 (1)\rummikub2\rummikub2\Colores.h(14,67): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tColor' cuando no hay ninguna variable declarada
+C:\Users\USER\Downloads\rummikub2 (1) (6) definitiva (1)\rummikub2 (1) (6) definitiva\rummikub2 (1)\rummikub2\rummikub2\Source.cpp(67,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\USER\Downloads\rummikub2 (1) (6) definitiva (1)\rummikub2 (1) (6) definitiva\rummikub2 (1)\rummikub2\rummikub2\Source.cpp(74,9): warning C4101: 'ficha': variable local sin referencia
+C:\Users\USER\Downloads\rummikub2 (1) (6) definitiva (1)\rummikub2 (1) (6) definitiva\rummikub2 (1)\rummikub2\rummikub2\Source.cpp(77,10): warning C4101: 'jugada': variable local sin referencia
+  tablero.cpp
+C:\Users\USER\Downloads\rummikub2 (1) (6) definitiva (1)\rummikub2 (1) (6) definitiva\rummikub2 (1)\rummikub2\rummikub2\Colores.h(14,67): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tColor' cuando no hay ninguna variable declarada
+  Generando código...
+  rummikub2.vcxproj -> C:\Users\USER\Downloads\rummikub2 (1) (6) definitiva (1)\rummikub2 (1) (6) definitiva\rummikub2 (1)\rummikub2\Debug\rummikub2.exe
